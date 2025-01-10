@@ -5,7 +5,7 @@ https://github.com/user-attachments/assets/f4bff9fc-a448-4595-a04b-1ef0ff4cc6f6
 
 
 
-```markdown
+
 # Password Manager
 
 A simple password manager that allows you to list, retrieve, delete, and manage passwords. The passwords are stored in a text file with simulated encryption to demonstrate a basic approach to password management.
